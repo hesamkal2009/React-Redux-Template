@@ -1,14 +1,23 @@
-# info about project
+# React-Redux-Template
+This is a React Redux Template which is implemented by following technologies: 
 
-# font-awesome usage
-
-`// Light:\
-<FontAwesomeIcon icon={["fal", "coffee"]} />\
-// Regular:\
-<FontAwesomeIcon icon={["far", "coffee"]} />\
-// Solid\
-<FontAwesomeIcon icon={["fas", "coffee"]} />\
-// ...or, omit as FontAwesome defaults to solid, so no need to prefix:\
-<FontAwesomeIcon icon="coffee" />\
-// Brand:\
-<FontAwesomeIcon icon={["fab", "github"]} />\
+- React 17.0.2 with (Create-React-Template Redux Template)
+- React-Router-DOM 
+- Redux
+- @Reduxjs/ToolKit
+- React-Redux 
+- Redux-DevTools-Extension
+- Reselect 
+- Axios
+- SASS
+- Styled-Components
+- React-App-Pollyfill
+- Query-String
+- Prop-Types
+- Moment
+- Lodash
+- JWT-Decode
+- Immer
+- Bootstrap 5.0
+- Font-Awesome
+- Joi-Browser
