@@ -1,0 +1,15 @@
+// If you want to override variables do it here
+@import "variables";
+
+// Some temp fixes
+@import "fixes";
+
+// If you want to add something do it here
+@import "custom";
+
+footer {
+	bottom: 0;
+	position: absolute;
+	width: 100%;
+	text-align: center;
+}
